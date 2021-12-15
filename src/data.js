@@ -1,0 +1,15 @@
+export const data = [
+  { id: 1, name: 'Eshmat', status: 'Mentor' },
+  { id: 2, name: 'Xolmat', status: 'Mentor' },
+  { id: 3, name: 'Toshmat', status: 'Mentor' },
+  { id: 4, name: 'Gulmat', status: 'Mentor' },
+  { id: 5, name: 'Eshmat', status: 'Mentor' },
+  { id: 6, name: 'Toshmat', status: 'Mentor' },
+  { id: 7, name: 'Gulmat', status: 'Mentor' },
+  { id: 9, name: 'Eshmat', status: 'Mentor' },
+  { id: 10, name: 'Ulugbek', status: 'Mentor' },
+  { id: 11, name: 'Mexroj', status: 'Mentor' },
+  { id: 12, name: 'Akmal', status: 'Mentor' },
+  { id: 13, name: 'Dilshod', status: 'Mentor' },
+  { id: 14, name: 'Ravshan', status: 'Mentor' },
+];
